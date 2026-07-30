@@ -43,6 +43,10 @@ Then visit `http://localhost:8000/`.
 
 There is no build step and no dependencies. The entire tool is a single `index.html` with inline CSS and JavaScript.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
